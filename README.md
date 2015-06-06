@@ -1,4 +1,2 @@
 # hello-world
-
-
-ruined.
+Life got better.
